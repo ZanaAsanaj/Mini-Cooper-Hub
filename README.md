@@ -1,5 +1,3 @@
-# zana-asanaj
-Welcome to my portfolio! 
 <!DOCTYPE html>
 <html>
     <head>
